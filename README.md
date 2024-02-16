@@ -1,16 +1,40 @@
-### Hi there 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+John+Atughara!;" />
+</h1>
+<h3 align="center">Data Scientist | Data Analyst | Customer Service Management | Marketing</h3>
 
-<!--
-**atugharajohn/atugharajohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center"> 
+  <a href="atugharajohn@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a> 
+  <a href="https://www.linkedin.com/in/atugharajohn/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br> 
+
+
+Experienced Data Analyst/Scientist with a meticulous approach, adept at gathering, structuring, analyzing, and presenting data to facilitate effective business, technological, and research solutions. Proficient in crafting comprehensive reports and documents, adeptly handling intricate internal and external data analysis tasks. Committed to utilizing insights derived from data analysis to enhance decision-making processes, while effectively leading teams to success. Rapidly assimilates new concepts and initiates problem-solving strategies. Demonstrates a keen eye for detail and a relentless drive for technical advancement in every project undertaken.
+
+<div align="center">
+  
+💬 Ask me about **Data Science**
+
+📧 Reach me out atugharajohn@gmail.com
+
+ </div>
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=python,mysql,javascript," /><br>
+</div>
+
+<br/>
+
+<h2 align="center">📊 Github Stats 📊</h2>
+
+![Khai Duong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=teeqson&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=teeqson&show_icons=true&theme=radical)
