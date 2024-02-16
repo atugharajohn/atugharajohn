@@ -15,7 +15,6 @@
 
 <br> 
 
-
 Experienced Data Analyst/Scientist with a meticulous approach, adept at gathering, structuring, analyzing, and presenting data to facilitate effective business, technological, and research solutions. Proficient in crafting comprehensive reports and documents, adeptly handling intricate internal and external data analysis tasks. Committed to utilizing insights derived from data analysis to enhance decision-making processes, while effectively leading teams to success. Rapidly assimilates new concepts and initiates problem-solving strategies. Demonstrates a keen eye for detail and a relentless drive for technical advancement in every project undertaken.
 
 <div align="center">
@@ -28,13 +27,13 @@ Experienced Data Analyst/Scientist with a meticulous approach, adept at gatherin
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github" />
-    <img src="https://skillicons.dev/icons?i=python,mysql,javascript," /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github" />
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,sklearn," /><br>
 </div>
 
 <br/>
 
 <h2 align="center">📊 Github Stats 📊</h2>
 
-![Khai Duong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=teeqson&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=teeqson&show_icons=true&theme=radical)
+![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=atugharajohn&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atugharajohn&show_icons=true&theme=radical)
