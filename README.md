@@ -25,11 +25,6 @@ Experienced Data Analyst/Scientist with a meticulous approach, adept at gatherin
 
  </div>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github" />
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,sklearn," /><br>
-</div>
 
 <br/>
 
